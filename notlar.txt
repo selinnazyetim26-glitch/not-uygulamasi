@@ -3,3 +3,9 @@
 3. mkdir: Yeni bir klasör oluşturur.
 4. pwd: Bulunulan dizinin tam yolunu gösterir.
 5. rm: Dosya veya klasörleri siler.
+--- Hafta 2 Git Komutları ---
+1. git init: Yeni bir Git reposu başlatır.
+2. git add: Dosyaları staging area'ya ekler.
+3. git commit: Değişiklikleri versiyon olarak kaydeder.
+4. git status: Deponun mevcut durumunu gösterir.
+5. git push: Commit'leri uzak depoya (GitHub) gönderir.
